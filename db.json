@@ -29,24 +29,8 @@
       }
     ]
   },
-
-  {
-    "city": "Paris",
-    "airports": [
-      {
-        "name": "Charles de Gaulle Airport",
-        "iata": "CDG",
-        "passengers": 79844310
-      },
-      {
-        "name": "Orly Airport",
-        "iata": "ORY",
-        "passengers": 6647483
-      }
-    ]
-  },
-
-  {
+    
+    {
     "city": "New York",
     "airports": [
       {
@@ -63,6 +47,22 @@
         "name": "Newark Liberty International Airport",
         "iata": "EWR",
         "passengers": 54574786
+      }
+    ]
+  },
+
+  {
+    "city": "Paris",
+    "airports": [
+      {
+        "name": "Charles de Gaulle Airport",
+        "iata": "CDG",
+        "passengers": 79844310
+      },
+      {
+        "name": "Orly Airport",
+        "iata": "ORY",
+        "passengers": 6647483
       }
     ]
   }
